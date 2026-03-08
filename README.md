@@ -163,22 +163,3 @@ The project includes example assets such as:
   - `cubone.mtl`
 
 These support the included AR marker demo.
-
-## Notes
-
-- This is best presented as an **augmented reality** project rather than a VR project.
-- The repository already contains documentation, build files, components, and a test/demo application, so it can be framed as a full browser AR system rather than a small assignment.
-- For a cleaner public repo, you may want to remove conflict files and redundant generated docs before uploading.
-- You may also consider renaming `docs/Readme.md` to avoid confusion with the main repository `README.md`.
-
-## Possible Improvements
-
-- add live webcam support in the demo by default,
-- modernize the build and package structure,
-- expose camera intrinsics and marker parameters in a configuration UI,
-- add more marker types or markerless tracking methods,
-- reorganize the project into `src/`, `demo/`, and `docs/` folders for easier navigation.
-
-## License
-
-This repository is shared as part of a personal portfolio in augmented reality, browser-based 3D systems, and marker-based computer vision.
